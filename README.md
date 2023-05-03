@@ -62,5 +62,14 @@
 ***
 
 <h3>METHODS</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The researchers will gather, organize, and use available data-sets such as those provided from Our World in Data to analyze the rising cases of dengue in the Philippines. The categories such as month, year, region, and number of dengue cases will be available in the said data-sets. These data-sets can help the researchers to understand how and when, during what months these cases of dengue are rising the most. All members of the Literature Review Group have access to the original data sources and extraction tables for them to be able to review and analyze it more anytime, anywhere.
+
+***
+
+<h3>EXPECTED OUTPUT<h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project intends to educate people about the dengue epidemic in the Philippines. It will contain the information regarding how many cases have been recorded in the past years, why and what causes dengue to be present in an environment, and what steps will be taken to avoid the rise of dengue cases. The data gathered and results from this project can help anyone who will view or use it for future research. This can help the future researchers, the Department of Health, the Local Government Unit such as the barangay, and the health care workers as well. Through the gathered data in this project, the Department of health can use it to better understand the problem regarding dengue. This can help them to provide guidelines and better solutions or steps on how each community can avoid having a high percentage of dengue cases. Issuing those guidelines and steps on how to be safe from being bitten by a dengue mosquito to communities can help in curbing the dengue cases down.
+
+***
+
 
 

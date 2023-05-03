@@ -29,13 +29,13 @@
 ![4](https://user-images.githubusercontent.com/114730442/235941165-9a483153-aa78-4dc8-93c9-e0fa235c7cac.png)
 
 
-<p align="center">Goal 3: Good Health and Well-Being</p>
+<p align="center"><strong>Goal 3: Good Health and Well-Being</strong></p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this SDG is to ensure healthy lives and promote well-being for all at all ages. It highlights the need for health education and awareness, particularly in communities where services are lacking. This is especially true in the case of dengue, where understanding of preventative measures and early warning signals can assist people and communities in taking action to prevent the disease's spread.</p>
 
 
 ![5](https://user-images.githubusercontent.com/114730442/235941417-e8b240fc-62da-48e8-b741-27f37c8bcda9.png)
 
-<p align="center">Goal 6: Clean Water and Sanitation</p>
+<p align="center"><strong>Goal 6: Clean Water and Sanitation</strong></p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This SDG ensures availability and sustainable management of water and sanitation for all. It is critical for dengue prevention and control. We can minimize the prevalence of the disease and promote community health and well-being just like the Goal 3 of the SDGs, by providing access to clean water and sanitation.</p>
 
 ***

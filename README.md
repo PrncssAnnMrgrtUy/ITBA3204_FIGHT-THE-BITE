@@ -41,7 +41,7 @@
 
 ***
 
-<h3>SIGNIFICANCE OF THE PROPOSED PROJECT:</h3> 
+<h3>SIGNIFICANCE OF THE PROPOSED PROJECT</h3> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the Students.** Students would be able to learn about their present health and make improvements in their schools and communities as a result. It could motivate them to advise and assist minorities in maintaining a clean environment in order to reduce the incidence of dengue in both public and private settings, including their schools, parks, and even in their homes. This information will show how unclean and disorderly surroundings can have an effect on even a clean community. They will learn to value their environment as a result of this.
 
@@ -50,4 +50,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the Citizens and the Community.** The project can help the citizens and community by providing data and information on how they can prevent dengue cases. It can especially help the parents and guardians. This would teach parents and guardians on how to keep their families safe by working with their own local barangay and town officials and helping LGUs maintain their environment. The proper safety of their children's health should be a parent's or guardian's first priority and duty.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the future researchers.** The information and analysis available in this study that is created by the proponents can help the future researchers to better understand the problem regarding dengue. The project can guide them and provide needed data for a more in-depth study. This can give them an overview about the topic on how the Philippines is dealing with the rising cases of dengue.
+ 
+***
+
+<h3>METHODS</h3>
+
  

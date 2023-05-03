@@ -25,7 +25,6 @@
 ***
 
 <h3>SUSTAINABLE DEVELOPMENT GOALS (SDGs)</h3>
-
 <p align="center">Goal 3: Good Health and Well-Being</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this SDG is to ensure healthy lives and promote well-being for all at all ages. It highlights the need for health education and awareness, particularly in communities where services are lacking. This is especially true in the case of dengue, where understanding of preventative measures and early warning signals can assist people and communities in taking action to prevent the disease's spread.</p>
 

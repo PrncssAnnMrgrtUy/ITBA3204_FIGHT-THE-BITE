@@ -59,7 +59,7 @@
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>To the Citizens and the Community.</strong> The project can help the citizens and community by providing data and information on how they can prevent dengue cases. It can especially help the parents and guardians. This would teach parents and guardians on how to keep their families safe by working with their own local barangay and town officials and helping LGUs maintain their environment. The proper safety of their children's health should be a parent's or guardian's first priority and duty.</p>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>To the future researchers.</strong> The information and analysis available in this study that is created by the proponents can help the future researchers to better understand the problem regarding dengue. The project can guide them and provide needed data for a more in-depth study. This can give them an overview about the topic on how the Philippines is dealing with the rising cases of dengue.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>To the Future Researchers.</strong> The information and analysis available in this study that is created by the proponents can help the future researchers to better understand the problem regarding dengue. The project can guide them and provide needed data for a more in-depth study. This can give them an overview about the topic on how the Philippines is dealing with the rising cases of dengue.</p>
 
 ***
 

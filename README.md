@@ -70,5 +70,19 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project intends to educate people about the dengue epidemic in the Philippines. It will contain the information regarding how many cases have been recorded in the past years, why and what causes dengue to be present in an environment, and what steps will be taken to avoid the rise of dengue cases. The data gathered and results from this project can help anyone who will view or use it for future research. This can help the future researchers, the Department of Health, the Local Government Unit such as the barangay, and the health care workers as well. Through the gathered data in this project, the Department of health can use it to better understand the problem regarding dengue. This can help them to provide guidelines and better solutions or steps on how each community can avoid having a high percentage of dengue cases. Issuing those guidelines and steps on how to be safe from being bitten by a dengue mosquito to communities can help in curbing the dengue cases down.
 
+***
+![3](https://user-images.githubusercontent.com/114730442/235952108-2bf91db3-59c0-46a1-b077-405624ca538d.png)
 
+***
+<h3>REFERENCES</h3>
+
+* https://www.cdc.gov/dengue/about/index.html 
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9249805/?fbclid=IwAR1Jq5-PfehUoWZmvDiKih2bHsqDknTovroP4HZfk6j_OTVg9dv30qFJRz4#bib0001
+* https://www.ncbi.nlm.nih.gov/books/NBK430732/
+* https://www.who.int/docs/default-source/wpro---documents/emergency/surveillance/dengue/dengue_20230413.pdf?sfvrsn=b4a28654_61
+* https://manilanews.ph/philippines-dengue-fever-2021-nearly-80k-cases-lower-than-2020/
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9249805/?fbclid=IwAR1Jq5-PfehUoWZmvDiKih2bHsqDknTovroP4HZfk6j_OTVg9dv30qFJRz4#bib0001
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5392638/
+* https://www.cdc.gov/mosquitoes/about/where-mosquitoes-live.html
+* https://www.bartleby.com/essay/Problem-Statement-For-Dengue-Fever-PJ4282WPCU
 

@@ -39,6 +39,7 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This SDG ensures availability and sustainable management of water and sanitation for all. It is critical for dengue prevention and control. We can minimize the prevalence of the disease and promote community health and well-being just like the Goal 3 of the SDGs, by providing access to clean water and sanitation.</p>
 
 ***
+
 <h3>PROBLEM STATEMENT:</h3>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the Philippines, dengue fever is one of the most serious health problems. Most outbreaks in the nation take place during the wet season (June to February), which is largely seasonal. All four DENV serotypes are currently circulating in the Philippines, which also has the highest density of dengue outbreaks in Southeast Asia. The virus that causes dengue fever is spread by infected mosquitoes to other mosquito species, where it causes dengue fever. There isn't a dengue fever vaccine available right now in the Philippines. Therefore, the best way to stop the spread of the illness is to avoid its possible causes. Aedes population reduction is the only obvious method of preventing dengue fever. In order to reduce the presence of Aedes, it is essential to comprehend their environment.</p>
 
@@ -48,5 +49,18 @@
 
 ***
 
+<h3>SIGNIFICANCE OF THE PROPOSED PROJECT</h3> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the Students.** Students would be able to learn about their present health and make improvements in their schools and communities as a result. It could motivate them to advise and assist minorities in maintaining a clean environment in order to reduce the incidence of dengue in both public and private settings, including their schools, parks, and even in their homes. This information will show how unclean and disorderly surroundings can have an effect on even a clean community. They will learn to value their environment as a result of this.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the Local Government Unit (LGU).** This will help them analyze the data and identify the particular areas and age groups that Dengue most frequently affects in their locality. Additionally, it will enhance their response and motivate them to put policies in place to stop dengue cases in nearby municipalities and barangays. Create initiatives with the help of the federal government, including the Department of Health (DOH).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the Citizens and the Community.** The project can help the citizens and community by providing data and information on how they can prevent dengue cases. It can especially help the parents and guardians. This would teach parents and guardians on how to keep their families safe by working with their own local barangay and town officials and helping LGUs maintain their environment. The proper safety of their children's health should be a parent's or guardian's first priority and duty.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**To the future researchers.** The information and analysis available in this study that is created by the proponents can help the future researchers to better understand the problem regarding dengue. The project can guide them and provide needed data for a more in-depth study. This can give them an overview about the topic on how the Philippines is dealing with the rising cases of dengue.
+
+***
+
+<h3>METHODS</h3>
 
 

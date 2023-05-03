@@ -1,18 +1,10 @@
 ![1](https://user-images.githubusercontent.com/114730442/235929159-f6107509-dd21-4653-8643-13c79ae29894.png)
 
 
-# <h1 align="center">Analysis on the Rising Cases of Dengue in the Philippines</h1>
+# <h2 align="center">Analysis on the Rising Cases of Dengue in the Philippines</h2>
 
 ![2](https://user-images.githubusercontent.com/114730442/235929522-c59bb1d6-dbd4-4930-bb92-3bae5d351442.png)
 
-
-<h3 align="center">GROUP MEMBERS:</h3>
-
-***
-<h5 align="center">DUNO, RAZELL A.</h5>
-<h5 align="center">PENTINIO, KEANO C.</h5>
-<h5 align="center">LOPEZ, SHAIRA MAE A.</h5>
-<h5 align="center">UY, PRINCESS ANN MARGARET E.</h5>
 
 ***
 <h3>INTRODUCTION</h3>
@@ -33,7 +25,9 @@
 ***
 
 <h3>SUSTAINABLE DEVELOPMENT GOALS (SDGs)</h3>
+
 <p align="center">Goal 3: Good Health and Well-Being</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this SDG is to ensure healthy lives and promote well-being for all at all ages. It highlights the need for health education and awareness, particularly in communities where services are lacking. This is especially true in the case of dengue, where understanding of preventative measures and early warning signals can assist people and communities in taking action to prevent the disease's spread.</p>
 
 ***
 <h3>PROBLEM STATEMENT:</h3>

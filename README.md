@@ -21,6 +21,8 @@
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The DOH have implemented the 4s strategy, to help in preventing mosquito bites and avoiding dengue cases from rising. The Search and destroy mosquito-breeding sites where getting rid of or covering any standing water can help with this. The next one is Secure self-protection measures like wearing clothing that covers the majority of the body such as long pants and long sleeved shirts and daily use of mosquito repellent. Seeking early consultation is another one to know whether dengue is what is causing you to be sick. Lastly, the Support fogging or spraying only in hotspot areas where increases in cases is registered for two consecutive weeks to prevent an outbreak. Living in an air-conditioned or well-screened home can help and be cautious if a member of your family becomes dengue fever.</p>
 
+![7](https://user-images.githubusercontent.com/114730442/236120659-0f508c0a-6e1e-4351-b133-4076da28108b.png)
+
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a part of the nation's efforts to prevent dengue, the Dengvaxia vaccine was introduced in 2016. Unfortunately, Sanofi, the company that developed the vaccine, stated that people who have never had dengue infection may experience "more severe disease" after receiving Dengvaxia, almost two years after the campaign had begun. At this point, more than 800,000 kids had been inoculated without parental consent. As a result of the widespread outrage that followed, lawsuits were filed against Sanofi and various government figures on the grounds that the vaccine had killed children and that the government was corrupt. As a result of the growing mistrust people had for the public health system, immunization rates fell, which led to a measles outbreak in 2019.</p>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More than 110 nations regularly commemorate the Second World War. Between 50 and 528 million individuals become ill each year, and Dengue causes about 20,000 deaths annually. Dengue fever is caused by any of four distinct serotypes (DENV 1-4) of single-stranded RNA viruses of the genus Flavivirus. Infection by one serotype results in lifelong immunity to that serotype but not to others. More than 100 million people are affected each year by this virus, which has the fastest global spread of any mosquito-borne disease. Additionally, dengue, which is present in more than 100 countries, kills 20 to 25,000 people every year, mostly children.</p>
@@ -31,7 +33,8 @@
 
 <h3>SUSTAINABLE DEVELOPMENT GOALS (SDGs)</h3>
 
-![4](https://user-images.githubusercontent.com/114730442/236097619-b830e682-6d4c-4a0c-8b59-378c10bc684f.png)
+![4](https://user-images.githubusercontent.com/114730442/236121722-8c0bf871-c1c2-4ab8-8509-cf52860afa61.png)
+
 
 
 
@@ -40,7 +43,8 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this SDG is to ensure healthy lives and promote well-being for all at all ages. It highlights the need for health education and awareness, particularly in communities where services are lacking. This is especially true in the case of dengue, where understanding of preventative measures and early warning signals can assist people and communities in taking action to prevent the disease's spread.</p>
 
 
-![5](https://user-images.githubusercontent.com/114730442/236093657-8fa4be7b-4f00-4894-ad28-33f89fd8d566.png)
+![5](https://user-images.githubusercontent.com/114730442/236121746-ebac53e6-767d-4753-a402-399547f8b1b5.png)
+
 
 
 <p align="center"><strong>Goal 6: Clean Water and Sanitation</strong></p>
@@ -52,8 +56,6 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the Philippines, dengue fever is one of the most serious health problems. Most outbreaks in the nation take place during the wet season (June to February), which is largely seasonal. All four DENV serotypes are currently circulating in the Philippines, which also has the highest density of dengue outbreaks in Southeast Asia. The virus that causes dengue fever is spread by infected mosquitoes to other mosquito species, where it causes dengue fever. There isn't a dengue fever vaccine available right now in the Philippines. Therefore, the best way to stop the spread of the illness is to avoid its possible causes. Aedes population reduction is the only obvious method of preventing dengue fever. In order to reduce the presence of Aedes, it is essential to comprehend their environment.</p>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The National Dengue Prevention and Control Program is established in 1993 by the Philippine government to address the growing problem regarding dengue cases. However, the program struggled achieving its goals for reducing dengue cases. The lack of empowerment among the stakeholders to take responsibility for dengue prevention is a major obstacle to its effectiveness. The difficulty of eliminating local breeding grounds, which are mostly water-holding containers, was another issue that was confronted. Residents store water in these containers in locations with erratic piped water supply. Furthermore, inhabitants frequently save various containers because they can be used for other things or even sold to generate revenue. Ineffective waste collection services may leave garbage lying where it can collect rainfall is another problem.</p>
-
-![Clean Water and Sanitation](https://user-images.githubusercontent.com/114730442/235963519-0946376e-3e4a-474d-a56a-d0e3b09243d4.png)
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Dengvaxia vaccine was first introduced in 2016 as part of the nation's efforts to prevent dengue. However, Sanofi, the company that developed the vaccine, revealed that Dengvaxia might result in 'more severe disease' to individuals who have never had dengue infection, almost two years after the campaign had begun. Public outrage followed the indiscriminate vaccination of over 800,000 kids at this point, and lawsuits were brought against Sanofi and different government figures over allegations of child vaccine deaths and political corruption. The subsequent lack of confidence in the public health sector caused immunization rates to drop significantly, which led to an outbreak of measles in 2019.</p>
 

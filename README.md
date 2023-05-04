@@ -26,7 +26,8 @@
 
 <h3>SUSTAINABLE DEVELOPMENT GOALS (SDGs)</h3>
 
-![4](https://user-images.githubusercontent.com/114730442/235941165-9a483153-aa78-4dc8-93c9-e0fa235c7cac.png)
+![4](https://user-images.githubusercontent.com/114730442/236093321-d4956c89-4d20-47a6-b01c-2ddcf6cded9b.png)
+
 
 
 <p align="center"><strong>Goal 3: Good Health and Well-Being</strong></p>

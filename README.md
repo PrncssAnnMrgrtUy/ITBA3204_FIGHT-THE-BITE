@@ -5,9 +5,7 @@
 
 # <h2 align="center">Analysis on the Rising Cases of Dengue in the Philippines</h2>
 
-![2](https://user-images.githubusercontent.com/114730442/236120493-ae7c0391-280d-4b03-8393-a8a62107fc66.png)
-
-
+![Clean Water and Sanitation (1)](https://user-images.githubusercontent.com/114730442/236197264-be797865-2f3c-4dd4-a6d5-dcb13982f7e4.png)
 
 
 

@@ -1,11 +1,16 @@
 
-![1](https://user-images.githubusercontent.com/114730442/236116153-756cc420-a182-446b-8822-842cbd30c6b9.png)
+![2D](https://user-images.githubusercontent.com/114730442/236300221-0efb3230-6b35-4b66-a781-add03544237a.png)
 
 
 
 # <h2 align="center">Analysis on the Rising Cases of Dengue in the Philippines</h2>
 
-![Clean Water and Sanitation (1)](https://user-images.githubusercontent.com/114730442/236197264-be797865-2f3c-4dd4-a6d5-dcb13982f7e4.png)
+![2K](https://user-images.githubusercontent.com/114730442/236313116-93817d58-d8f4-44a6-9420-02063544beb6.png)
+
+
+
+
+
 
 
 
@@ -19,7 +24,9 @@
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The DOH have implemented the 4s strategy, to help in preventing mosquito bites and avoiding dengue cases from rising. The Search and destroy mosquito-breeding sites where getting rid of or covering any standing water can help with this. The next one is Secure self-protection measures like wearing clothing that covers the majority of the body such as long pants and long sleeved shirts and daily use of mosquito repellent. Seeking early consultation is another one to know whether dengue is what is causing you to be sick. Lastly, the Support fogging or spraying only in hotspot areas where increases in cases is registered for two consecutive weeks to prevent an outbreak. Living in an air-conditioned or well-screened home can help and be cautious if a member of your family becomes dengue fever.</p>
 
-![7](https://user-images.githubusercontent.com/114730442/236120659-0f508c0a-6e1e-4351-b133-4076da28108b.png)
+![5K](https://user-images.githubusercontent.com/114730442/236313513-015cad86-7226-4888-93f0-6e543c347004.png)
+
+
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a part of the nation's efforts to prevent dengue, the Dengvaxia vaccine was introduced in 2016. Unfortunately, Sanofi, the company that developed the vaccine, stated that people who have never had dengue infection may experience "more severe disease" after receiving Dengvaxia, almost two years after the campaign had begun. At this point, more than 800,000 kids had been inoculated without parental consent. As a result of the widespread outrage that followed, lawsuits were filed against Sanofi and various government figures on the grounds that the vaccine had killed children and that the government was corrupt. As a result of the growing mistrust people had for the public health system, immunization rates fell, which led to a measles outbreak in 2019.</p>
 
@@ -81,7 +88,11 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project intends to educate people about the dengue epidemic in the Philippines. It will contain the information regarding how many cases have been recorded in the past years, why and what causes dengue to be present in an environment, and what steps will be taken to avoid the rise of dengue cases. The data gathered and results from this project can help anyone who will view or use it for future research. This can help the future researchers, the Department of Health, the Local Government Unit such as the barangay, and the health care workers as well. Through the gathered data in this project, the Department of health can use it to better understand the problem regarding dengue. This can help them to provide guidelines and better solutions or steps on how each community can avoid having a high percentage of dengue cases. Issuing those guidelines and steps on how to be safe from being bitten by a dengue mosquito to communities can help in curbing the dengue cases down.<p>
 
 ***
-![3g](https://user-images.githubusercontent.com/114730442/236198423-5381bd10-7af1-4df5-b9cb-6a55ef06ff23.png)
+
+![3K](https://user-images.githubusercontent.com/114730442/236314081-a528b761-9607-447a-a7b8-824aa6b9fcd8.png)
+
+
+
 
 
 ***

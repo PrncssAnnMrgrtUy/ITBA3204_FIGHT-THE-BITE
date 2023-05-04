@@ -5,7 +5,8 @@
 
 # <h2 align="center">Analysis on the Rising Cases of Dengue in the Philippines</h2>
 
-![2](https://user-images.githubusercontent.com/114730442/235929522-c59bb1d6-dbd4-4930-bb92-3bae5d351442.png)
+![2](https://user-images.githubusercontent.com/114730442/236116249-8275783b-0234-4f36-a8f8-88556ce631c2.png)
+
 
 
 ***

@@ -5,7 +5,8 @@
 
 # <h2 align="center">Analysis on the Rising Cases of Dengue in the Philippines</h2>
 
-![2K](https://user-images.githubusercontent.com/114730442/236313116-93817d58-d8f4-44a6-9420-02063544beb6.png)
+![2K](https://user-images.githubusercontent.com/114730442/236368020-e1766d29-f6b6-403c-b730-d46344825e1a.png)
+
 
 
 
@@ -39,8 +40,6 @@
 <h3>SUSTAINABLE DEVELOPMENT GOALS (SDGs)</h3>
 
 ![4](https://user-images.githubusercontent.com/114730442/236121722-8c0bf871-c1c2-4ab8-8509-cf52860afa61.png)
-
-
 
 
 
